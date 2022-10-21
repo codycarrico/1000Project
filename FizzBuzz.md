@@ -3,7 +3,9 @@
 [Home](https://github.com/codycarrico/1000Project/blob/main/README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Navigation](https://github.com/codycarrico/1000Project/blob/main/Navigation.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About Me](https://github.com/codycarrico/1000Project/blob/main/About%20Me.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Resume](https://github.com/codycarrico/1000Project/blob/main/Resume.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[FizzBuzz](https://github.com/codycarrico/1000Project/blob/main/FizzBuzz.md)
 
 <br>
-```<!DOCTYPE html>
+
+```
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -35,4 +37,5 @@ function fizzbuzz() {
 </div>
 </body>
 
-</html>```
+</html>
+```
