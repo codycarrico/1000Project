@@ -8,7 +8,7 @@
 Home page
 * ### __[Navigation.md](https://github.com/codycarrico/1000Project/blob/main/Navigation.md)__
 Navigation page
-* ### __[About Me](https://github.com/codycarrico/1000Project/blob/main/About_Me.md)__
+* ### __[About Me](https://github.com/codycarrico/1000Project/blob/main/About%20Me.md)__
 Personal information page
 * ### __[Resume](https://github.com/codycarrico/1000Project/blob/main/Resume.md)__
 View my resume
